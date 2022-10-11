@@ -1,2 +1,12 @@
 Control the NPM Noe version 
 https://linuxhint.com/downgrade-node-version-windows/
+
+
+Get List of installed NPM
+Commond :  ----
+// list installed versions of node (via nvm)
+nvm ls
+
+----------------------------------------------Offical Doc-------------------------------------------------------------
+
+https://gist.github.com/chranderson/b0a02781c232f170db634b40c97ff455
